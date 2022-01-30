@@ -441,8 +441,8 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
             SubmitResults();
         }
 
-        if (cps <= 5) return '速速与沙糖桔本人对线';
-        if (cps <= 8) return '生草至极';
+        if (cps <= 5) return '速速与小萧萧本人打闹';
+        if (cps <= 8) return '小萧萧都哭了';
         if (cps <= 10)  return '牛牛牛，非常有傲气';
         if (cps <= 15) return 'Yee~';
         return '人？';
